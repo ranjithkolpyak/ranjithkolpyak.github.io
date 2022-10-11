@@ -118,8 +118,12 @@ body {
 }
 
 .credit-reference {
-    color: white;
     position: absolute;
     bottom: 0;
     right: 0;
+}
+
+.credit-reference a {
+    color: white;
+    text-decoration: none;
 }
